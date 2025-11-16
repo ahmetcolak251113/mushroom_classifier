@@ -1,6 +1,6 @@
 # Mushroom Classifier
 
-Bu repo, mantarların özelliklerine bakarak **yenilebilir / zehirli** (veya farklı sınıflar) şeklinde sınıflandırılmasını amaçlayan bir makine öğrenmesi projesidir. Tüm kodlar `src/` klasöründe, ham / işlenmiş veriler `data/` klasöründe, deney sonuçları ve çıktı dosyaları ise `results/` klasöründe tutulur. :contentReference[oaicite:0]{index=0}
+Bu repo, mantarların özelliklerine bakarak **farklı sınıflar** şeklinde sınıflandırılmasını amaçlayan bir makine öğrenmesi projesidir. Tüm kodlar `src/` klasöründe, ham / işlenmiş veriler `data/` klasöründe, deney sonuçları ve çıktı dosyaları ise `results/` klasöründe tutulur.
 
 ---
 

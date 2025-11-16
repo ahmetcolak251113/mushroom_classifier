@@ -14,7 +14,7 @@ Bu repo, mantarların özelliklerine bakarak **yenilebilir / zehirli** (veya far
 
 ## Proje Yapısı
 
-Depoda şu anda üst düzeyde aşağıdaki klasör ve dosyalar bulunuyor: :contentReference[oaicite:1]{index=1}
+Depoda şu anda üst düzeyde aşağıdaki klasör ve dosyalar bulunuyor:
 
 ```text
 mushroom_classifier/
